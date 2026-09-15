@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Kirie.Api/Kirie.Api.csproj" />
+  <Project Path="Kirie.Tests/Kirie.Tests.csproj" />
+</Solution>
